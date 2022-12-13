@@ -1,0 +1,7 @@
+{"type": "record",
+ "name": "Jobs",
+ "fields": [
+     {"name": "id", "type": "int"},
+     {"name": "job",  "type": "string"}
+ ]
+}
